@@ -21,7 +21,7 @@ PANEL_DASHBOARD = 'project'
 PANEL_GROUP = 'database'
 
 # If set to True, this settings file will not be added to the settings.
-DISABLED = False
+DISABLED = True
 
 # Python panel class of the PANEL to be added.
 ADD_PANEL = ('trove_dashboard.content.ng_database_backups.panel.NGBackups')
